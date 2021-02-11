@@ -1,0 +1,9 @@
+Hostname: db49.cpxroqunlmpf.us-east-1.rds.amazonaws.com
+Password: Group2DB
+Schema: test
+
+1. Run database/make_tables.sql to create the database tables on the database server.
+2. Run html/php/CreateTestUsers.php to create a bunch of test users.
+3. Run database/populate-categories-table.php to populate the DB with eBay categories.
+4. Run database/CreateTestCatalogs_v2.php to populate the DB with test catalogs.
+
