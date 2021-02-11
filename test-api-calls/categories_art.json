@@ -1,0 +1,100 @@
+{
+    "Timestamp": "2019-09-30T16:31:31.327Z",
+    "Ack": "Success",
+    "Build": "E1117_CORE_APILW_19037828_R1",
+    "Version": "1117",
+    "CategoryArray": {
+        "Category": [{
+            "CategoryID": "550",
+            "CategoryLevel": 1,
+            "CategoryName": "Art",
+            "CategoryParentID": "-1",
+            "CategoryNamePath": "Art",
+            "CategoryIDPath": "550",
+            "LeafCategory": false
+        }, {
+            "CategoryID": "28009",
+            "CategoryLevel": 2,
+            "CategoryName": "Art Posters",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Art Posters",
+            "CategoryIDPath": "550:28009",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "552",
+            "CategoryLevel": 2,
+            "CategoryName": "Art Drawings",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Art Drawings",
+            "CategoryIDPath": "550:552",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "2211",
+            "CategoryLevel": 2,
+            "CategoryName": "Art Photographs",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Art Photographs",
+            "CategoryIDPath": "550:2211",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "360",
+            "CategoryLevel": 2,
+            "CategoryName": "Art Prints",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Art Prints",
+            "CategoryIDPath": "550:360",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "553",
+            "CategoryLevel": 2,
+            "CategoryName": "Art Sculptures",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Art Sculptures",
+            "CategoryIDPath": "550:553",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "357",
+            "CategoryLevel": 2,
+            "CategoryName": "Folk Art & Indigenous Art",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Folk Art & Indigenous Art",
+            "CategoryIDPath": "550:357",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "554",
+            "CategoryLevel": 2,
+            "CategoryName": "Mixed Media Art & Collage Art",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Mixed Media Art & Collage Art",
+            "CategoryIDPath": "550:554",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "551",
+            "CategoryLevel": 2,
+            "CategoryName": "Paintings",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Paintings",
+            "CategoryIDPath": "550:551",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "156196",
+            "CategoryLevel": 2,
+            "CategoryName": "Textile Art & Fiber Art",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Textile Art & Fiber Art",
+            "CategoryIDPath": "550:156196",
+            "LeafCategory": true
+        }, {
+            "CategoryID": "20158",
+            "CategoryLevel": 2,
+            "CategoryName": "Other Art",
+            "CategoryParentID": "550",
+            "CategoryNamePath": "Art:Other Art",
+            "CategoryIDPath": "550:20158",
+            "LeafCategory": true
+        }]
+    },
+    "CategoryCount": 11,
+    "UpdateTime": "2019-08-20T19:37:31.000Z",
+    "CategoryVersion": "121"
+}
